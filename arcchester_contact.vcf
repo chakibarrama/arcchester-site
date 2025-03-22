@@ -1,9 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Arcchester
+FN:Chakib ARRAMA
 ORG:Arcchester
 ADR;TYPE=WORK:;131 BD D'ANFA RESIDENCE AZUR 11EME ETAGE N° 11 B;Casablanca;Morocco
 TEL;TYPE=WORK:+212677779908
 EMAIL;TYPE=WORK:contact@arcchester.com
+EMAIL;TYPE=PERSONAL:chakib.arrama@arcchester.com
 URL:https://www.arcchester.com/contact
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/chakib-arrama-a4546729/
+URL;TYPE=Facebook:https://www.facebook.com/chakibarrama
+URL;TYPE=Instagram:https://www.instagram.com/chakib_arrama/
+NOTE:IT Consultant & Senior Developer - Passionate about technology and business solutions.
 END:VCARD
